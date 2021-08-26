@@ -268,25 +268,25 @@
   <div class="row">
     <div class="col-lg-2"></div>
     <div class="car col-lg-2 "> 
-      <img src="photo/heart.png" style="height:25px ; width:25px;" >
+      <img src="photo/heart.png" style="height:25px ; width:25px;" class="mt-3">
       <h1 class="pt-3">199 +</h1>
       <p>Staticfied Customers</p>
     </div>
    
     <div class="car col-lg-2">
-      <img src="photo/time.png" style="height:25px ; width:25px;" >
+      <img src="photo/time.png" style="height:25px ; width:25px;" class="mt-3">
       <h1 class="pt-3">1591+</h1>
       <p>Days Of Operation</p>
     </div>
    
     <div class=" car col-lg-2">
-      <img src="photo/check.png" style="height:25px ; width:25px;" >
+      <img src="photo/check.png" style="height:25px ; width:25px;"class="mt-3" >
       <h1 class="pt-3">283 +</h1>
       <p>Complete Project</p>
     </div>
     
     <div class="car col-lg-2">
-      <img src="photo/win.png" style="height:25px ; width:25px;" >
+      <img src="photo/win.png" style="height:25px ; width:25px;" class="mt-3">
       <h1 class="pt-3">75 +</h1>
       <p>Win Awards</p>
     </div>
