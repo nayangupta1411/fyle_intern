@@ -315,7 +315,7 @@
   <!-- footer -->
   <div class="container-fluid" style="background-image: url('photo/footer.png');">
     <div class="container-fluid col-lg-9 p-5">
-    <img src="photo/group.png" style="width: 100%;">
+    <img src="photo/Group.png" style="width: 100%;">
     </div>
   </div>
 
