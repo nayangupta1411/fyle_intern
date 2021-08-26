@@ -27,7 +27,7 @@
             Morbi sed lacus nec risus finibus feugiat et fermentum nibh. Pellentesque vitae ante at elit fringilla ac at purus, Morbi sed lacus nec risus finibus feugiat et fermentum
           </div>
           <div class="pt-4 pb-5">
-            <button class="btn btn-primary" onclick="window.location.href='form.html'">CONTACT US</button>
+            <button class="btn btn-primary" onclick="window.location.href='form.php'">CONTACT US</button>
           </div>
           
         </div>
